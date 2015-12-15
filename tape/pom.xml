@@ -6,12 +6,19 @@
   <parent>
     <groupId>com.indoqa.thirdparty</groupId>
     <artifactId>tape-parent</artifactId>
-    <version>1.2.4-SNAPSHOT</version>
-    <relativePath>../pom.xml</relativePath>
+    <version>1.2.4</version>
   </parent>
 
   <name>Tape</name>
   <artifactId>tape</artifactId>
+  <version>1.2.4-SNAPSHOT</version>
+
+  <scm>
+    <url>http://github.com/Indoqa/tape</url>
+    <connection>scm:git:git://github.com/Indoqa/tape.git</connection>
+    <developerConnection>scm:git:git@github.com:Indoqa/tape.git</developerConnection>
+  </scm>
+
 
   <dependencies>
     <dependency>
