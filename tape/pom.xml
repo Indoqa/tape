@@ -11,12 +11,13 @@
 
   <name>Tape</name>
   <artifactId>tape</artifactId>
-  <version>1.2.4-SNAPSHOT</version>
+  <version>1.2.4</version>
 
   <scm>
     <url>http://github.com/Indoqa/tape</url>
     <connection>scm:git:git://github.com/Indoqa/tape.git</connection>
     <developerConnection>scm:git:git@github.com:Indoqa/tape.git</developerConnection>
+    <tag>tape-1.2.4</tag>
   </scm>
 
 
