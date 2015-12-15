@@ -21,16 +21,16 @@
     <groupId>org.sonatype.oss</groupId>
     <artifactId>oss-parent</artifactId>
     <version>7</version>
-  </parent>
+  </parent>  
 
-  <groupId>com.squareup</groupId>
+  <groupId>com.indoqa.thirdparty</groupId>
   <artifactId>tape-parent</artifactId>
   <version>1.2.4-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Tape (Parent)</name>
   <description>A lightning fast, transactional, file-based FIFO for Android and Java.</description>
-  <url>http://github.com/square/tape/</url>
+  <url>http://github.com/Indoqa/tape/</url>
 
   <modules>
     <module>tape</module>
@@ -53,9 +53,9 @@
   </properties>
 
   <scm>
-    <url>http://github.com/square/tape</url>
-    <connection>scm:git:git://github.com/square/tape.git</connection>
-    <developerConnection>scm:git:git@github.com:square/tape.git</developerConnection>
+    <url>http://github.com/Indoqa/tape</url>
+    <connection>scm:git:git://github.com/Indoqa/tape.git</connection>
+    <developerConnection>scm:git:git@github.com:Indoqa/tape.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
@@ -63,11 +63,6 @@
     <name>Square, Inc.</name>
     <url>http://squareup.com</url>
   </organization>
-
-  <issueManagement>
-    <system>GitHub Issues</system>
-    <url>http://github.com/square/tape/issues</url>
-  </issueManagement>
 
   <licenses>
     <license>
